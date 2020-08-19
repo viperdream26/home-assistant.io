@@ -59,6 +59,6 @@ You can use the service `econet.delete_vacation` to remove all vacations from an
 
 <div class='note'>
 
-Econet water heaters use to live under the `climate` platform prior to release 0.81.
+Econet water heaters used to live under the `climate` platform prior to release 0.81.
 
 </div>
